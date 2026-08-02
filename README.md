@@ -33,9 +33,10 @@
 * **Infrastructure & DevOps:** Docker, GitHub Actions, Git, REST & JSON-RPC 2.0 Protocols
 
 ---
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasla-ai&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasla-ai&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+<!-- 종합 성적표 카드 (아이콘 표시 활성화) -->
+[![hasla-ai's GitHub stats](https://vercel.app)](https://github.com)
+
+<!-- 주로 사용하는 언어 카드 (간결한 레이아웃) -->
+[![Top Langs](https://vercel.app)](https://github.com)
