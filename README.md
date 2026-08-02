@@ -28,12 +28,13 @@
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C, JavaScript
-* **AI Frameworks:** PyTorch, Qiskit, LangChain/LlamaIndex Ecosystem
-* **Infrastructure & DevOps:** Docker, GitHub Actions, Git, REST & JSON-RPC 2.0 Protocols
-
----
 ## 📊 GitHub Stats
+
+<!-- 1. 종합 성적표 카드 (최신 안정화 서버) -->
+[![hasla-ai's GitHub stats](https://vercel.app)](https://github.com)
+
+<!-- 2. 주로 사용하는 언어 카드 (최신 안정화 서버) -->
+[![Top Langs](https://vercel.app)](https://github.com)
 
 <!-- 종합 성적표 카드 (아이콘 표시 활성화) -->
 [![hasla-ai's GitHub stats](https://vercel.app)](https://github.com)
