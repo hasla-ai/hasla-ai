@@ -40,3 +40,5 @@
 
 <!-- 주로 사용하는 언어 카드 (간결한 레이아웃) -->
 [![Top Langs](https://vercel.app)](https://github.com)
+
+[![hasla-ai's github streak](https://herokuapp.com)
